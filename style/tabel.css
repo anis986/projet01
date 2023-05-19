@@ -1,0 +1,18 @@
+table {
+    color: rgb(16, 9, 109);
+    text-align: center;
+    width: 100%;
+    border-collapse: collapse;
+    background-color: aquamarine;
+  }
+  
+  td,
+  th {
+    padding: 15px;
+    border: 10px solid #0c0f1d;
+  }
+  
+  td {
+    padding: 80px;
+  }
+   
